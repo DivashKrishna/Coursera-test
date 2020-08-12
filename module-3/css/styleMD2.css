@@ -1,0 +1,50 @@
+ 
+ * {
+    box-sizing: border-box;
+    margin: 10;
+    padding: 10;
+  }
+
+  .col-md-12 {
+     
+     margin-top: 10px;
+     margin-bottom: 10px;
+    
+   
+    }
+
+    .card-body{
+       background-color: rgb(173, 167, 167); 
+    }
+
+  
+   .navbar-brand{
+       font-size: xx-large;
+       margin-left: 20px;
+   }
+
+
+
+     .navbar{
+         color: grey;
+     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
